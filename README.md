@@ -9,12 +9,12 @@ Currently building products at **[IF Dev Tecnologia](https://ifdev.com.br)**:
 
 ## Stack
 
-| Area | Tools |
-| --- | --- |
-| Back end | Java, Spring Boot, Spring Data JPA, PostgreSQL, Supabase |
-| Front end | TypeScript, Angular, React, Astro |
-| Mobile | Flutter, Dart |
-| Infra | Docker, OpenTofu, Cloudflare, GitHub Actions |
+| Area | | Tools |
+| --- | --- | --- |
+| Back end | <img src="https://skillicons.dev/icons?i=java,spring,postgres,supabase" height="36" alt="Java, Spring, PostgreSQL, Supabase"> | Java, Spring Boot, Spring Data JPA, PostgreSQL, Supabase |
+| Front end | <img src="https://skillicons.dev/icons?i=ts,angular,react,astro" height="36" alt="TypeScript, Angular, React, Astro"> | TypeScript, Angular, React, Astro |
+| Mobile | <img src="https://skillicons.dev/icons?i=flutter" height="36" alt="Flutter"> | Flutter, Dart |
+| Infra | <img src="https://skillicons.dev/icons?i=docker,cloudflare,githubactions" height="36" alt="Docker, Cloudflare, GitHub Actions"> | Docker, OpenTofu, Cloudflare, GitHub Actions |
 
 ## Open source
 
