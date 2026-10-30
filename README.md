@@ -1,11 +1,10 @@
 # Fagner Lima
 
-Full stack developer from João Pessoa, Brazil. I build web and mobile products end to end: API and database, interface, and the infrastructure that runs them.
+Senior full-stack software engineer from João Pessoa, Brazil. Since 2020 I've been building and evolving enterprise systems with Java/Spring Boot and Angular, and since 2022 I've led development teams technically while staying hands-on with the code.
 
-Currently building products at **[IF Dev Tecnologia](https://ifdev.com.br)**:
+Outside my day job, I'm the founder of **[IF Dev Tecnologia](https://ifdev.com.br)**, where I build my own products and custom apps and systems:
 
-- **Conta Certeira**: free Brazilian calculators that run in the browser, no sign-up, mobile first.
-- **Billitu**: a finance app for families and couples (in development).
+- **Conta Certeira** (live): free Brazilian calculators that run in the browser, no sign-up, mobile first.
 
 ## Stack
 
@@ -14,7 +13,8 @@ Currently building products at **[IF Dev Tecnologia](https://ifdev.com.br)**:
 | Back end | <img src="https://skillicons.dev/icons?i=java,spring,postgres,supabase" height="36" alt="Java, Spring, PostgreSQL, Supabase"> | Java, Spring Boot, Spring Data JPA, PostgreSQL, Supabase |
 | Front end | <img src="https://skillicons.dev/icons?i=ts,angular,react,astro" height="36" alt="TypeScript, Angular, React, Astro"> | TypeScript, Angular, React, Astro |
 | Mobile | <img src="https://skillicons.dev/icons?i=flutter" height="36" alt="Flutter"> | Flutter, Dart |
-| Infra | <img src="https://skillicons.dev/icons?i=docker,cloudflare,githubactions" height="36" alt="Docker, Cloudflare, GitHub Actions"> | Docker, OpenTofu, Cloudflare, GitHub Actions |
+| Cloud | <img src="https://skillicons.dev/icons?i=aws,cloudflare" height="36" alt="AWS, Cloudflare"> | AWS Serverless (Lambda, S3, SNS, API Gateway), Cloudflare |
+| DevOps | <img src="https://skillicons.dev/icons?i=docker,githubactions" height="36" alt="Docker, GitHub Actions"> | Docker, OpenTofu, GitHub Actions |
 
 ## Open source
 
